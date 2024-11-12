@@ -144,7 +144,7 @@ public class AccountController : ControllerBase
         return BadRequest();
     }
 
-    [HttpPost("role")]
+    [HttpPost("rol")]
     public async Task<IActionResult> CreateRole([FromBody] string roleName)
     {
         if (string.IsNullOrWhiteSpace(roleName))

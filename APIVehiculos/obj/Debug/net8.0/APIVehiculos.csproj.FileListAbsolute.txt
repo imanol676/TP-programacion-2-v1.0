@@ -445,3 +445,4 @@ D:\Download\TP-programacion-II-main\APIVehiculos\obj\Debug\net8.0\refint\APIVehi
 D:\Download\TP-programacion-II-main\APIVehiculos\obj\Debug\net8.0\APIVehiculos.pdb
 D:\Download\TP-programacion-II-main\APIVehiculos\obj\Debug\net8.0\APIVehiculos.genruntimeconfig.cache
 D:\Download\TP-programacion-II-main\APIVehiculos\obj\Debug\net8.0\ref\APIVehiculos.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\obj\Debug\net8.0\APIVehiculos.sourcelink.json

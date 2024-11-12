@@ -34,6 +34,7 @@ public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
                 entity.HasOne(r => r.Usuario).WithMany(u => u.Reservas).HasForeignKey(r => r.UsuarioId);//Delete(DeleteBehavior.Cascade);
                 // Restricción de fecha para evitar reservas en fechas pasadas
                 entity.ToTable(t => t.HasCheckConstraint("CK_Reserva_Fecha", "FechaInicio >= GETDATE()"));
+
             });
     }
 }

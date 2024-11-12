@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 [ApiController]
-//[Authorize]
+[Authorize]
 [Route("api/reservas")]
 public class ReservaController : ControllerBase
 {
@@ -13,7 +13,7 @@ public class ReservaController : ControllerBase
         _reservaServices = reservaService;
 
     }
-    
+
     [HttpGet]
     public ActionResult<List<Reserva>> GetAllReservas()
     {
