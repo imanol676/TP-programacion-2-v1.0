@@ -1,6 +1,7 @@
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -95,6 +96,8 @@ public class AccountController : ControllerBase
 
     // Asignar un rol a un usuario
     [HttpPost("asignar-rol")]
+    [Authorize(Roles = "ADMIN")]
+
     public async Task<IActionResult> AsignarRol([FromBody] RoleAssignmentDTO model)
     {
         var user = await _userManager.FindByNameAsync(model.Username);
@@ -133,6 +136,8 @@ public class AccountController : ControllerBase
     }
 
     [HttpGet("/users/{id}/roles")]
+    [Authorize(Roles = "ADMIN")]
+
     public async Task<IActionResult> GetUserRoles(string id)
     {
         var user = await _userManager.FindByIdAsync(id);
@@ -145,6 +150,9 @@ public class AccountController : ControllerBase
     }
 
     [HttpPost("rol")]
+    [Authorize(Roles = "ADMIN")]
+
+
     public async Task<IActionResult> CreateRole([FromBody] string roleName)
     {
         if (string.IsNullOrWhiteSpace(roleName))
