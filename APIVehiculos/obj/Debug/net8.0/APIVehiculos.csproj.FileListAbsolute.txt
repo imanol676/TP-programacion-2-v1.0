@@ -1,0 +1,447 @@
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\appsettings.json
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\APIVehiculos.exe
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\APIVehiculos.deps.json
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\APIVehiculos.runtimeconfig.json
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\APIVehiculos.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\APIVehiculos.pdb
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\obj\Debug\net8.0\APIVehiculos.csproj.AssemblyReference.cache
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\obj\Debug\net8.0\APIVehiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\obj\Debug\net8.0\APIVehiculos.AssemblyInfoInputs.cache
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\obj\Debug\net8.0\APIVehiculos.AssemblyInfo.cs
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\obj\Debug\net8.0\APIVehiculos.csproj.CoreCompileInputs.cache
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\obj\Debug\net8.0\APIVehiculos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\obj\Debug\net8.0\APIVehiculos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\obj\Debug\net8.0\staticwebassets\msbuild.APIVehiculos.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\obj\Debug\net8.0\staticwebassets\msbuild.build.APIVehiculos.props
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APIVehiculos.props
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APIVehiculos.props
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\obj\Debug\net8.0\scopedcss\bundle\APIVehiculos.styles.css
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\obj\Debug\net8.0\APIVehic.74E4E96F.Up2Date
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\obj\Debug\net8.0\APIVehiculos.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\obj\Debug\net8.0\refint\APIVehiculos.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\obj\Debug\net8.0\APIVehiculos.pdb
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\obj\Debug\net8.0\APIVehiculos.genruntimeconfig.cache
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\obj\Debug\net8.0\ref\APIVehiculos.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\obj\Debug\net8.0\APIVehiculos.sourcelink.json
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\Humanizer.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP programación II\APIVehiculos\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\obj\Debug\net8.0\APIVehiculos.csproj.AssemblyReference.cache
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\obj\Debug\net8.0\APIVehiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\obj\Debug\net8.0\APIVehiculos.AssemblyInfoInputs.cache
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\obj\Debug\net8.0\APIVehiculos.AssemblyInfo.cs
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\obj\Debug\net8.0\APIVehiculos.csproj.CoreCompileInputs.cache
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\obj\Debug\net8.0\APIVehiculos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\obj\Debug\net8.0\APIVehiculos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\obj\Debug\net8.0\APIVehiculos.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\obj\Debug\net8.0\refint\APIVehiculos.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\obj\Debug\net8.0\APIVehiculos.pdb
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\appsettings.json
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\APIVehiculos.exe
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\APIVehiculos.deps.json
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\APIVehiculos.runtimeconfig.json
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\APIVehiculos.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\APIVehiculos.pdb
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\Humanizer.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\obj\Debug\net8.0\staticwebassets\msbuild.APIVehiculos.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\obj\Debug\net8.0\staticwebassets\msbuild.build.APIVehiculos.props
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APIVehiculos.props
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APIVehiculos.props
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\obj\Debug\net8.0\scopedcss\bundle\APIVehiculos.styles.css
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\obj\Debug\net8.0\APIVehic.74E4E96F.Up2Date
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\obj\Debug\net8.0\APIVehiculos.genruntimeconfig.cache
+C:\Users\imano\OneDrive\Escritorio\TP-programacion-II\APIVehiculos\obj\Debug\net8.0\ref\APIVehiculos.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\appsettings.Development.json
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\appsettings.json
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\APIVehiculos.exe
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\APIVehiculos.deps.json
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\APIVehiculos.runtimeconfig.json
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\APIVehiculos.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\APIVehiculos.pdb
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\Azure.Core.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\Azure.Identity.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\Humanizer.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\System.CodeDom.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\obj\Debug\net8.0\APIVehiculos.csproj.AssemblyReference.cache
+D:\Download\TP-programacion-II-main\APIVehiculos\obj\Debug\net8.0\APIVehiculos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\TP-programacion-II-main\APIVehiculos\obj\Debug\net8.0\APIVehiculos.AssemblyInfoInputs.cache
+D:\Download\TP-programacion-II-main\APIVehiculos\obj\Debug\net8.0\APIVehiculos.AssemblyInfo.cs
+D:\Download\TP-programacion-II-main\APIVehiculos\obj\Debug\net8.0\APIVehiculos.csproj.CoreCompileInputs.cache
+D:\Download\TP-programacion-II-main\APIVehiculos\obj\Debug\net8.0\APIVehiculos.MvcApplicationPartsAssemblyInfo.cs
+D:\Download\TP-programacion-II-main\APIVehiculos\obj\Debug\net8.0\APIVehiculos.MvcApplicationPartsAssemblyInfo.cache
+D:\Download\TP-programacion-II-main\APIVehiculos\obj\Debug\net8.0\staticwebassets.build.json
+D:\Download\TP-programacion-II-main\APIVehiculos\obj\Debug\net8.0\staticwebassets.development.json
+D:\Download\TP-programacion-II-main\APIVehiculos\obj\Debug\net8.0\staticwebassets\msbuild.APIVehiculos.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Download\TP-programacion-II-main\APIVehiculos\obj\Debug\net8.0\staticwebassets\msbuild.build.APIVehiculos.props
+D:\Download\TP-programacion-II-main\APIVehiculos\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APIVehiculos.props
+D:\Download\TP-programacion-II-main\APIVehiculos\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APIVehiculos.props
+D:\Download\TP-programacion-II-main\APIVehiculos\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Download\TP-programacion-II-main\APIVehiculos\obj\Debug\net8.0\scopedcss\bundle\APIVehiculos.styles.css
+D:\Download\TP-programacion-II-main\APIVehiculos\obj\Debug\net8.0\APIVehic.74E4E96F.Up2Date
+D:\Download\TP-programacion-II-main\APIVehiculos\obj\Debug\net8.0\APIVehiculos.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\obj\Debug\net8.0\refint\APIVehiculos.dll
+D:\Download\TP-programacion-II-main\APIVehiculos\obj\Debug\net8.0\APIVehiculos.pdb
+D:\Download\TP-programacion-II-main\APIVehiculos\obj\Debug\net8.0\APIVehiculos.genruntimeconfig.cache
+D:\Download\TP-programacion-II-main\APIVehiculos\obj\Debug\net8.0\ref\APIVehiculos.dll
