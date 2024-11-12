@@ -27,8 +27,9 @@ public class VehiculoController : ControllerBase
         return Ok(a);
 
     }
-    [Authorize(Roles = "ADMIN")]
+
     [HttpPost]
+    [Authorize(Roles = "ADMIN")]
     public ActionResult<Vehiculo> CreateVehiculo(VehiculoDTO v)
     {
         if (!ModelState.IsValid)
@@ -38,8 +39,9 @@ public class VehiculoController : ControllerBase
         Vehiculo _v = _vehiculoService.CreateVehiculo(v);
         return CreatedAtAction(nameof(GetVehiculoById), new { id = _v.Id }, _v);
     }
-    [Authorize(Roles = "ADMIN")]
+
     [HttpDelete("{id}")]
+    [Authorize(Roles = "ADMIN")]
     public ActionResult DeleteVehiculo(int id)
     {
         var v = _vehiculoService.GetVehiculoById(id);
@@ -52,6 +54,7 @@ public class VehiculoController : ControllerBase
 
 
     [HttpPut("{id}")]
+    [Authorize(Roles = "ADMIN")]
     public ActionResult<Vehiculo> UpdateVehiculo(int id, VehiculoUpdateDTO updatedVehiculo)
     {
         try
