@@ -13,7 +13,6 @@ public class Reserva
     public ApplicationUser Usuario { get; set; }
     public string? UsuarioId { get; internal set; }
 
-
 }
 
 

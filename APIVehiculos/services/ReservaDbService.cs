@@ -5,7 +5,7 @@ public class ReservaDbService : IReservaService
     //private readonly ProjectContext _context;
     private readonly ApplicationDbContext _usercontext;
 
-    public ReservaDbService( ApplicationDbContext usercontext)
+    public ReservaDbService(ApplicationDbContext usercontext)
     {
         //_context = context;
         _usercontext = usercontext;
@@ -15,7 +15,10 @@ public class ReservaDbService : IReservaService
     {
         var usuario = _usercontext.Users.FirstOrDefault(x => x.UserName == r.UserId);
         var vehiculo = _usercontext.Vehiculos.Find(r.VehiculoId);
-
+        if (!this.IsVehicleAvailable(r.VehiculoId, r.FechaInicio, r.FechaFin))
+        {
+            throw new Exception("El vehículo ya está reservado para las fechas seleccionadas.");
+        }
         if (usuario == null || vehiculo == null)
         {
             var missingEntity = usuario == null ? "Usuario" : "Vehículo";
@@ -85,5 +88,14 @@ public class ReservaDbService : IReservaService
     public ReservaDTO CreateReserva(string userName)
     {
         throw new NotImplementedException();
+    }
+    public bool IsVehicleAvailable(int vehiculoId, DateTime startDate, DateTime endDate)
+    {
+        return !_usercontext.Reservas.Any(reserva =>
+        reserva.VehiculoId == vehiculoId &&
+        ((startDate >= reserva.FechaInicio && startDate <= reserva.FechaFin) ||
+         (endDate >= reserva.FechaInicio && endDate <= reserva.FechaFin) ||
+         (startDate <= reserva.FechaInicio && endDate >= reserva.FechaFin))
+    );
     }
 }

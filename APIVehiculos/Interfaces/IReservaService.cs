@@ -1,3 +1,4 @@
+
 public interface IReservaService
 {
     IEnumerable<Reserva> GetAllReservas();
@@ -7,4 +8,6 @@ public interface IReservaService
     void DeleteReserva(int id);
 
     IEnumerable<Reserva> GetReservasByUserId(string userId);
+    bool IsVehicleAvailable(int vehiculoId, DateTime fechaInicio, DateTime fechaFin);
+
 }
